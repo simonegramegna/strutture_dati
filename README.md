@@ -1,4 +1,4 @@
-﻿# Strutture dati implementate in C++ durante il corso di Algoritmi e Strutture dati c.d.l. Informatica ~ Bari, a.a. 2020/2021
+﻿# Strutture dati implementate in C++ durante il corso di Algoritmi e Strutture dati c.d.l. Informatica ~ Università di Bari, a.a. 2020/2021
 
 ##  In questa repository sono presenti:
 - Lista collegata 
